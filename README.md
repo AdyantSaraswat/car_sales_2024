@@ -12,4 +12,14 @@ Rank cars within brands by price and power
 
 Tools: MySQL, Kaggle Dataset
 
+SQL FEATURES USED :
+
+Data cleaning using IS NULL, REPLACE, and type casting
+Aggregations with GROUP BY, AVG(), MAX()
+Conditional segmentation using CASE
+Subqueries for filtering 
+Window functions 
+
+
+
 
