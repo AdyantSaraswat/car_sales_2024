@@ -153,9 +153,14 @@ LIMIT 10;
 
   ---
 
+---
+
 ## 👨‍💻 Author
 
-**Adyant Saraswat**  
+**Adyant Saraswat**
+
+[LinkedIn](https://www.linkedin.com/in/adyant-saraswat-1361142b6/) | [Instagram](adyant.saraswat)
+
 
 
 
