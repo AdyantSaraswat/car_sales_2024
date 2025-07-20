@@ -151,6 +151,13 @@ LIMIT 10;
 - Cars have been ranked by power within each brand to identify internal segment leaders.
 - A final ranking shows the top 10 brands producing the most powerful cars overall.
 
+  ---
+
+## 👨‍💻 Author
+
+**Adyant Saraswat**  
+
+
 
 
 
