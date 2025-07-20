@@ -3,22 +3,24 @@ SQL project analyzing 2024 car sales data with insights on car count by brand, a
 
 ## 📌 Objectives
 
-- Analyze car count by brand
-- Calculate average car price per brand
-- Categorize cars by price segment (budget, mid-range, premium)
-- Rank cars by price and power
-- Identify top-selling cars and top revenue-generating brands
-- Rank brands by their most powerful cars
+- Clean and prepare raw data for accurate analysis  
+- Analyze brand-wise distribution of cars  
+- Identify pricing trends and power metrics  
+- Segment cars into budget, mid-range, and premium  
+- Identify top-selling cars in 2024 and the most revenue-generating brands  
+- Rank cars within brands by price and power  
 
-Tools: MySQL, Kaggle Dataset
 
-SQL FEATURES USED :
+## Tools: MySQL, Kaggle Dataset
 
-Data cleaning using IS NULL, REPLACE, and type casting
-Aggregations with GROUP BY, AVG(), MAX()
-Conditional segmentation using CASE
-Subqueries for filtering 
-Window functions 
+## 🛠️ SQL Features Used
+
+- Data cleaning using `IS NULL`, `REPLACE`, and type casting  
+- Aggregations with `GROUP BY`, `AVG()`, and `MAX()`  
+- Conditional segmentation using `CASE`  
+- Subqueries for filtering and derived logic  
+- Window functions for ranking and partitioning (`RANK()`, `PARTITION BY`)  
+
 
 
 
