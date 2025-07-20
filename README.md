@@ -22,6 +22,21 @@ SQL project analyzing 2024 car sales data with insights on car count by brand, a
 - Window functions for ranking and partitioning (`RANK()`, `PARTITION BY`)  
 
 
+## 🗂️ Project Structure
+
+### 1️⃣ Database Setup
+
+- Created a database: `car_sales`  
+- Created table: `cars` with the following columns:
+  - `brand` – Brand of the car  
+  - `car_name` – Model name  
+  - `price` – Price of the car  
+  - `safety` – Safety rating  
+  - `mileage` – Fuel efficiency  
+  - `power_bhp` – Engine power (BHP)  
+  - `sales_2024` – Units sold in 2024  
+
+
 
 
 
